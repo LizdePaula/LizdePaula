@@ -10,7 +10,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
-![Power BI](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Power BI](https://img.shields.io/badge/-Powerbi-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 <!-- Logo do Python -->
 <p align="center">
