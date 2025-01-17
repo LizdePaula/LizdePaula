@@ -10,6 +10,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
+![Power BI Logo](https://example.com/powerbi-logo.png)
+
 <!-- Logo do Python -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo do Python" width="200" />
