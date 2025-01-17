@@ -17,12 +17,9 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo do Python" width="200" />
 </p>
-
-
  <!-- Logo do SQL -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Logo SQL" width="200" />
 </p>
-
 <!-- Logo do PowerBi -->
 ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
