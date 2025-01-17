@@ -13,6 +13,8 @@
 
 ![Power BI](https://img.shields.io/badge/-Powerbi-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
+https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white
+
 <!-- Logo do Python -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo do Python" width="200" />
