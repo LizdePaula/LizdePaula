@@ -13,7 +13,7 @@
 
 ![Power BI](https://img.shields.io/badge/-Powerbi-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
-![Inteligência Artificial] (https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor)&nbsp;
+
 
 <!-- Logo do Python -->
 <p align="center">
