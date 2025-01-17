@@ -1,4 +1,4 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1c90FF&height=120&section=header"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e91e63&height=120&section=header"/>
 
 <!-- Seção de Texto -->
 <h1 align="center">Hey! Eu sou Elizabete Ribeiro </h1>
