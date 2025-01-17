@@ -12,3 +12,50 @@
 <p align="center">
   Aqui está um pouco sobre mim e os meus projetos no GitHub.
 </p>
+@-moz-document domain("github.com"), domain("gist.github.com") {
+    /* Cor de fundo principal */
+    body {
+        background-color: #e0f7e9 !important; /* Verde claro */
+        color: #333 !important;
+    }
+
+    /* Links */
+    a {
+        color: #e91e63 !important; /* Rosa */
+    }
+
+    a:hover {
+        color: #ad1457 !important; /* Rosa escuro */
+    }
+
+    /* Barras de navegação */
+    .Header, .Header-item {
+        background-color: #388e3c !important; /* Verde escuro */
+    }
+
+    .Header a {
+        color: #ffffff !important; /* Branco */
+    }
+
+    /* Botões */
+    .btn {
+        background-color: #e91e63 !important; /* Rosa */
+        color: #ffffff !important;
+        border: none !important;
+    }
+
+    .btn:hover {
+        background-color: #ad1457 !important; /* Rosa escuro */
+    }
+
+    /* Blocos de código */
+    pre, code {
+        background-color: #f8bbd0 !important; /* Rosa claro */
+        color: #000 !important;
+    }
+
+    /* Outras áreas específicas */
+    .container {
+        background-color: #ffffff !important; /* Branco */
+    }
+}
