@@ -1,10 +1,3 @@
-@-moz-document domain("github.com"), domain("gist.github.com") {
-    /* Adicionar mensagem personalizada no topo */
-    .header {
-        position: relative;
-    }
-
-    .header::before {
         content: "Olá, meu nome é Elizabete Ribeiro";
         display: block;
         background-color: #81c784; /* Fundo verde */
