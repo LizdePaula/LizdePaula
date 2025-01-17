@@ -11,10 +11,7 @@
 <!-- Seção de Descrição -->
 <p align="center">
   Aqui está um pouco sobre mim e os meus projetos no GitHub.
-</p>
-@-moz-document domain("github.com"), domain("gist.github.com") {
-    /* Cor de fundo principal */
-    body {
+  
         background-color: #e0f7e9 !important; /* Verde claro */
         color: #333 !important;
     }
