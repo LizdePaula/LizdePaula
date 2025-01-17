@@ -11,4 +11,3 @@
 <!-- Seção de Descrição -->
 <p align="center">
   Aqui está um pouco sobre mim e os meus projetos.
-}
