@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF33CC&size=35&center=true&vCenter=true&width=1000&lines=**Hey,+Meu+nome+é+Elizabete+Ribeiro;Tenho+34+anos+;Sou+do+Brasil;Estudante+de+Data+Scientist;Bem-Vindos!**)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF33CC&size=35&center=true&vCenter=true&width=**1000&lines=Hey,+Meu+nome+é+Elizabete+Ribeiro;Tenho+34+anos+;Sou+do+Brasil;Estudante+de+Data+Scientist;Bem-Vindos!**)**](https://git.io/typing-svg)
 
 
  ### Main skills:
