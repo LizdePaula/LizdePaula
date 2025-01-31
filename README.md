@@ -26,3 +26,8 @@
 
 <!-- Logo do PowerBi -->
 ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+
+
+
+![https://g1.globo.com/https://s2-g1.glbimg.com/QlgVjA_mlDEVEUhxnVHeQk8--fk=/0x242:1536x1802/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/x/O/hU6kzUQYiAVbW35OCrBw/exwsz3lumaao0le.jpg](https://github.com/usuario/repo/blob/main/minha-imagem.png?raw=true)
+
